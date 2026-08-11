@@ -2,8 +2,8 @@
   "name": "bilel-coif-website",
   "private": true,
   "scripts": {
-    "build": "tailwindcss -i src.css -o css/tailwind.css --minify",
-    "watch": "tailwindcss -i src.css -o css/tailwind.css --watch"
+    "build": "tailwindcss -i src.css -o public/css/tailwind.css --minify",
+    "watch": "tailwindcss -i src.css -o public/css/tailwind.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^3"
