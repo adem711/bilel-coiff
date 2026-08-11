@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Once this site has a real domain, uncomment and update:
+# Sitemap: https://your-domain.tld/sitemap.xml
